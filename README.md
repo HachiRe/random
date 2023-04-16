@@ -1,6 +1,6 @@
 # HachiQU-Random-AI-Generations
 
-PLEASE REPLACE YOUR_API_KEY with your OPENAI API KEY
+PLEASE REPLACE YOUR_API_KEY with your real OPENAI API KEY
 
 THIS MADE BY @HachiQU
 
