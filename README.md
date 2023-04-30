@@ -1,4 +1,4 @@
-# dali
+# randomai
 
 PLEASE REPLACE YOUR_API_KEY with your real OPENAI API KEY
 
@@ -13,4 +13,4 @@ THIS MADE BY @HachiQU
                     
                     
                     
-                    :] https://replit.com/@HachiKu/dali?v=1
+                    :] https://replit.com/@HachiKu/random-ai?v=1
