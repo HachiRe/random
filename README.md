@@ -14,3 +14,7 @@ THIS MADE BY @HachiQU
                     
                     
                     :] https://replit.com/@HachiKu/random-ai?v=1
+                    
+                    
+                    
+                    #https://researchrandom.hachiku.repl.co/
