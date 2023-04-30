@@ -17,4 +17,4 @@ THIS MADE BY @HachiQU
                     
                     
                     
-                    https://researchrandom.hachiku.repl.co/
+                    for more info, go to https://researchrandom.hachiku.repl.co/
