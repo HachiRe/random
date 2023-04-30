@@ -5,7 +5,7 @@ import base64
 # Your OpenAI API key
 API_KEY = "YOUR_API_KEY"
 
-prompt = " "
+prompt = " aaa"
 
 # Encode the prompt as base64
 prompt_bytes = prompt.encode("ascii")
