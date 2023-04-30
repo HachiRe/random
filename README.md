@@ -13,4 +13,4 @@ THIS MADE BY @HachiQU
                     
                     
                     
-                    :] https://replit.com/@HachiKu/Random-ai-generations?v=1
+                    :] https://replit.com/@HachiKu/dali?v=1
