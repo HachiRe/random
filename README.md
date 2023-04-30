@@ -1,4 +1,4 @@
-# HachiQU-Random-AI-Generations
+# dali
 
 PLEASE REPLACE YOUR_API_KEY with your real OPENAI API KEY
 
