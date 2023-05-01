@@ -2,7 +2,7 @@
 
 PLEASE REPLACE YOUR_API_KEY with your real OPENAI API KEY
 
-THIS MADE BY @HachiQU
+THIS MADE BY @HachiRe
 
 
                      ^ ^
